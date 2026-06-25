@@ -193,7 +193,7 @@ else:
 
 st.sidebar.markdown(
     "<p style='color:#FFF;font-weight:600;font-size:13px;text-transform:uppercase;"
-    "letter-spacing:1px;margin:10px 0;'>Market Intelligence</p>",
+    "letter-spacing:1px;margin:10px 0;'>Saham Market Intelligence</p>",
     unsafe_allow_html=True,
 )
 
